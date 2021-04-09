@@ -1,0 +1,29 @@
+.main {
+    border: 2px solid grey;
+    width: 250px;
+    margin: 0 auto;
+}
+
+.display {
+    width: 97%;
+    color: #000000;
+    background-color: white;
+}
+
+.clearBtn {
+    width: 99.8%;
+    margin-top: 2px;
+    background-color: grey;
+}
+
+.btn {
+    width: 22%;
+    margin: 2px;
+}
+
+.halfBtn {
+    width:48%;
+    margin-left: 2px;
+    margin-top: 2px;
+
+}
